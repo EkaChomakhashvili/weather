@@ -1,0 +1,43 @@
+
+
+#weatherInfo {
+
+  width: 40%;
+  background-color: rgb(95, 95, 198);
+  color:beige;
+  justify-content: left;
+  height: 70%;
+  border-radius: 10px;
+  font-size: large;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.first {
+  display: flex;
+  align-items: left;    ;
+  gap: 30px;
+ }
+ 
+ .second {
+  display: flex;
+  gap: 30px;
+ }
+
+ .third {
+  display: flex;
+  gap: 30px;
+ }
+
+ .five {
+  display: flex;
+  gap: 30px;
+ }
+
+ .six {
+  display: flex;
+  gap: 30px;
+ }
+
+
+
+ 
